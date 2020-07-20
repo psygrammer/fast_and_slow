@@ -1,0 +1,11 @@
+fast_and_slow:
+  image: psygrammer/fast_and_slow:tf2.2-gpu
+  ports:
+    - "10088:8888"
+  volumes:
+    - ../:/home/jovyan
+  user: root
+  environment:
+      TZ: "Asia/Seoul"
+  working_dir: "/home/jovyan"
+  tty: true
