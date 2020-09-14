@@ -14,4 +14,4 @@ build-gpu :
 	docker build -t psygrammer/fast_and_slow:tf2.2-gpu ./jupyter-lab-tf2.2-gpu
 
 push-gpu :
-	docker push pasygrammer/fast_and_slow:tf2.2-gpu
+	docker push psygrammer/fast_and_slow:tf2.2-gpu

@@ -1,5 +1,5 @@
 fast_and_slow:
-  image: psygrammer/fast_and_slow:tf2.2-gpu
+  image: psygrammer/fast_and_slow:anyscale
   ports:
     - "12088:8888"
   volumes:
