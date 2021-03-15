@@ -1,3 +1,12 @@
 [submodule "examples/anyscale/academy"]
 	path = examples/anyscale/academy
 	url = https://github.com/anyscale/academy.git
+[submodule "drl/ref/Deep-Reinforcement-Learning-Hands-On"]
+	path = drl/ref/Deep-Reinforcement-Learning-Hands-On
+	url = https://github.com/PacktPublishing/Deep-Reinforcement-Learning-Hands-On.git
+[submodule "drl/ref/Deep-Reinforcement-Learning-with-Python"]
+	path = drl/ref/Deep-Reinforcement-Learning-with-Python
+	url = https://github.com/PacktPublishing/Deep-Reinforcement-Learning-with-Python.git
+[submodule "drl/ref/ray"]
+	path = drl/ref/ray
+	url = https://github.com/ray-project/ray.git
